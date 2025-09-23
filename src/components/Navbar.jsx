@@ -1,5 +1,4 @@
-import React from 'react'
-// import logo from '../assets/islam.jpg'
+
 import  { FaLinkedin, FaGithub, FaInstagram} from 'react-icons/fa'
 import { FaSquareXTwitter } from 'react-icons/fa6'
 

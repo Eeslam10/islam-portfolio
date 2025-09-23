@@ -1,6 +1,6 @@
 import About from './components/About'
 import Hero from './components/Hero'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Technoligies from './components/Technoligies'
 import Experience from './components/Experience'
 
