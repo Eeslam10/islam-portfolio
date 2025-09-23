@@ -1,7 +1,7 @@
-// import project1 from "../assets/projects/project-1.jpg";
-// import project2 from "../assets/projects/project-2.jpg";
-// import project3 from "../assets/projects/project-3.jpg";
-// import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/commerce.jpg";
+import project2 from "../assets/task-management.jpg";
+import project3 from "../assets/portfolio.jpg";
+
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -59,14 +59,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Firebase"],
-  },
+  }
 ];
 
 export const CONTACT = {
