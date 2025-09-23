@@ -9,32 +9,32 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2025 - Present",
+    role: "Senior Frontend Developer",
+    company: "Independent Consultant",
+    description: `As independent frontend developer passionate about building dynamic and responsive web applications. Currently leveraging the power of React and Next.js to create seamless user experiences. My expertise in JavaScript enables me to craft robust, interactive features, while I use Tailwind CSS to design clean, modern interfaces with efficiency. Also exploring new technologies and my goal is to deliver high-quality, user-focused solutions.`,
+    technologies: ["Javascript", "React.js", "Next.js", "Firebase", "TailwindCSS"],
+  },
+  {
+    year: "2023 - 2025",
+    role: "Frontend Developer",
+    company: "KATDICT",
+    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    technologies: ["NexyJs", "TailwindCSS", "Firebase"],
   },
   {
     year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    role: "Senior Developer",
+    company: "Lumilab",
+    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    technologies: ["Javascript", "ReeactJs", "NodeJs"],
   },
   {
     year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
+    role: "Junior Developer",
+    company: "Katsina Tech Hub",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    technologies: ["HTML", "CSS", "JAVASCRIPT"]
   },
 ];
 
