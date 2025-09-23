@@ -1,5 +1,5 @@
 import project1 from "../assets/commerce.jpg";
-import project2 from "../assets/task-management.jpg";
+import project2 from "../assets/tracking.avif";
 import project3 from "../assets/portfolio.jpg";
 
 
@@ -44,28 +44,28 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "Firebase"],
+    technologies: ["React", "TailwindCSS", "Firebase"],
   },
   {
     title: "Task Management App",
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "TailwindCss", "Angular", "Firebase"],
+    technologies: ["NestJs", "TailwindCss", "Firebase"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["Tailwind", "React", "Firebase"],
   }
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Zaria, Kaduna State, Nigeria",
+  phoneNo: "+2348100050907 ",
+  email: "islammuhd8@gmail.com",
 };
 
 

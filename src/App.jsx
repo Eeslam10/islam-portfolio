@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Technoligies from './components/Technoligies'
 import Experience from './components/Experience'
 import Projects from './components/Projects'
+import Contact from './components/Contact'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Technoligies />
         <Experience />
         <Projects />
+        <Contact />
       </div>
     </div>
   )
