@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 const iconVariants = (duration) => ({
   initial: { y: -10 },
   animate: {
-    y: [10, -10], // Oscillates between y: 10px and y: -10px
+    y: [10, -10], 
     transition: {
       duration: duration,
       ease: "linear", // Linear for consistent speed
