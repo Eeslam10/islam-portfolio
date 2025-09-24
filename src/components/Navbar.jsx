@@ -45,7 +45,7 @@ const Navbar = () => {
           <FaGithub />
         </motion.a>
         <motion.a
-          href="https://instagram.com/your-instagram-username"
+          href="https://www.instagram.com/islammuhd/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-navy-300 hover:text-navy-600 transition-colors"
@@ -56,7 +56,7 @@ const Navbar = () => {
           <FaInstagram />
         </motion.a>
         <motion.a
-          href="https://x.com/your-x-username"
+          href="https://x.com/MuhdEeslam"
           target="_blank"
           rel="noopener noreferrer"
           className="text-navy-300 hover:text-navy-600 transition-colors"
